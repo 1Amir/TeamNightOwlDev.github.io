@@ -1,7 +1,7 @@
 TeamNightOwl.css
 
 UpdateLog- https://github.com/TeamNightOwlDev/TeamNightOwlDev.github.io/blob/master/TeamNightOwl-CSS/Update-Log.txt
-_____________________________________________________________________________________________________________________
+__________________________________________________________________________________________________
 
 How To Add TNO.css To Your Website
 _________________________________________
