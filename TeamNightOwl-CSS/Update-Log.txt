@@ -2,6 +2,7 @@ TNO.css - Update History
 
 **VERY SOON**
 >A Way To Move Text Without Opening A CSS File
+>Add New Color Selection's To Rainbow Text Attribute
 >More Colors Added To Color Shade Section
 
 0.12 (29/11/2017)
