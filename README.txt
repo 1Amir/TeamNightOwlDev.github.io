@@ -33,38 +33,38 @@ Example:<div class="TNO-rainbowtext TNO-fontsize100 TNO-textshadow4px"><h1>I Am 
 
 All Attributes Currently In TeamNightOwl.CSS
 ______________________________________________________________________________________________________________________________
- TNO-underline        Underlines Your Code
- TNO-overline         Places Line Above Code
- TNO-linethrough      Places Line Through Text
- TNO-textshadow1px    Makes A 1px Shadow To Go Onto Your Text
- TNO-textshadow2px    Makes A 2px Shadow To Go Onto Your Text
- TNO-textshadow3px    Makes A 3px Shadow To Go Onto Your Text
- TNO-textshadow4px    Makes A 4px Shadow To Go Onto Your Text
- TNO-textshadow5px    Makes A 5px Shadow To Go Onto Your Text
- TNO-textshadow6px    Makes A 6px Shadow To Go Onto Your Text
+ TNO-underline                   Underlines Your Code
+ TNO-overline                    Places Line Above Code
+ TNO-linethrough                 Places Line Through Text
+ TNO-textshadow1px               Makes A 1px Shadow To Go Onto Your Text
+ TNO-textshadow2px               Makes A 2px Shadow To Go Onto Your Text
+ TNO-textshadow3px               Makes A 3px Shadow To Go Onto Your Text
+ TNO-textshadow4px               Makes A 4px Shadow To Go Onto Your Text
+ TNO-textshadow5px               Makes A 5px Shadow To Go Onto Your Text
+ TNO-textshadow6px               Makes A 6px Shadow To Go Onto Your Text
  
- TNO-red              Makes Text red
- TNO-blue             Makes Text blue
- TNO-lightblue        Makes Text Light Blue
- TNO-white            Makes Text White
- TNO-black            Makes Text Black
- TNO-yellow           Makes Text Yellow
- TNO-green            Makes Text Green
- TNO-purple           Makes Text Purple
- TNO-orange           Makes Text Orange
- TNO-darkorange       Makes Text Dark Orange
+ TNO-red, TNO-redshade1-8        Makes Text red
+ TNO-blue                        Makes Text blue
+ TNO-lightblue                   Makes Text Light Blue
+ TNO-white                       Makes Text White
+ TNO-black                       Makes Text Black
+ TNO-yellow                      Makes Text Yellow
+ TNO-green                       Makes Text Green
+ TNO-purple                      Makes Text Purple
+ TNO-orange                      Makes Text Orange
+ TNO-darkorange                  Makes Text Dark Orange
  
- TNO-textaligncenter  Aligns Text With Center Of Page
- TNO-textalignleft    Align Text With Left Of Page
- TNO-textalignright   Aligns Text With Right Of Page
+ TNO-textaligncenter             Aligns Text With Center Of Page
+ TNO-textalignleft               Align Text With Left Of Page
+ TNO-textalignright              Aligns Text With Right Of Page
  
- TNO-fontsizeNUMBER<--Enter A Number Up To 500 Here.Number Must Go Up By 5's
- Example:TNO-fontsize325, TNO-fontsize330, TNO-fontsize335, etc
+ TNO-fontsizeNUMBER              <--Enter A Number Up To 500 Here.Number Must Go Up By 5's
+                                 Example:TNO-fontsize325, TNO-fontsize330, TNO-fontsize335, etc
+                                 <div class="TNO-fontsize475"><h1>Hello World</h1></div>
  
- 
- TNO-rainbowtext      Makes Text Flash Five Different Colors Forever
- TNO-rainbowtext1sec  Makes Text Flash Five Different In 1 Second Forever
- TNO-rainbowtext2sec  Makes Text Flash Five Different In 2 Second Forever
- TNO-rainbowtext3sec  Makes Text Flash Five Different In 3 Second Forever
- TNO-rainbowtext4sec  Makes Text Flash Five Different In 4 Second Forever
- TNO-rainbowtext5sec  Makes Text Flash Five Different In 5 Second Forever
+ TNO-rainbowtext                 Makes Text Flash Five Different Colors Forever
+ TNO-rainbowtext1sec             Makes Text Flash Five Different In 1 Second Forever
+ TNO-rainbowtext2sec             Makes Text Flash Five Different In 2 Second Forever
+ TNO-rainbowtext3sec             Makes Text Flash Five Different In 3 Second Forever
+ TNO-rainbowtext4sec             Makes Text Flash Five Different In 4 Second Forever
+ TNO-rainbowtext5sec             Makes Text Flash Five Different In 5 Second Forever
