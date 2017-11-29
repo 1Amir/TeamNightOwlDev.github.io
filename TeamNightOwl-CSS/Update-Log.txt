@@ -1,8 +1,8 @@
 TNO.css - Update History
 
 **VERY SOON**
-A Way To Move Text Without Opening A CSS File
-More Colors Added To Color Shade Section
+>A Way To Move Text Without Opening A CSS File
+>More Colors Added To Color Shade Section
 
 0.12 (29/11/2017)
 >The font Size Attribute Can Now Go Up By Ones's, But Can Only Hit font-size 200px Instead Of 500px
