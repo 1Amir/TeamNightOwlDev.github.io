@@ -1,0 +1,14 @@
+TNO.css - Update History
+
+**VERY SOON**
+A Way To Move Text Without Opening A CSS File
+Font Size Going Exactly To 500, Instead Of Skipping By 5's
+
+0.11 (28/11/2017)
+>Text Shadow Attribute Now Goes Up To 10px
+>Box Shadows Have Now Been Added
+> A New Attribute Called Color Shades Have Been Added For Red, Blue, Yellow, Purple, Green, And Grey
+>A Feature Called "Web Kill' Has Been Added (Just For Fun)
+
+0.10 (28/11/2017):
+>TNO.css Alpha Releashed
