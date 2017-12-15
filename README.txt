@@ -79,7 +79,7 @@ ________________________________________________________________________________
  
  TNO-textaligncenter             Aligns Text With Center Of Page
  TNO-textalignleft               Align Text With Left Of Page
- TNO-textalignright              Aligns Text With Right Of Page
+ TNO-textalignright                Aligns Text With Right Of Page
  
  TNO-fontsizeNUMBER              <--Enter A Number Up To 500 Here.Number Must Go Up By 5's
                                  Example:TNO-fontsize325, TNO-fontsize330, TNO-fontsize335, etc
