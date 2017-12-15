@@ -66,10 +66,10 @@ ________________________________________________________________________________
  TNO-blueshade1-8                Select Shade Of Blue From 1 to 8
   
  TNO-grey                        Makes Text Grey
- TNO-greyshade1-8                Select Shade Of Grey From 1 to 8                   Color Shades Example
-                                                                                     __________________
+ TNO-greyshade1-8                Select Shade Of Grey From 1 to 8                   
+                                                                                     
  TNO-yellow                      Makes Text Yellow
- TNO-yellowshade1-8              Select Shade Of Yellow From 1 to 8        <h1 class="TNO-blueshade5">I Am Blue!</h1>
+ TNO-yellowshade1-8              Select Shade Of Yellow From 1 to 8        
  
  TNO-green                       Makes Text Green
  TNO-greenshade1-8               Select Shade Of Green From 1 to 8
@@ -79,11 +79,10 @@ ________________________________________________________________________________
  
  TNO-textaligncenter             Aligns Text With Center Of Page
  TNO-textalignleft               Align Text With Left Of Page
- TNO-textalignright                Aligns Text With Right Of Page
+ TNO-textalignright              Aligns Text With Right Of Page
  
- TNO-fontsizeNUMBER              <--Enter A Number Up To 500 Here.Number Must Go Up By 5's
-                                 Example:TNO-fontsize325, TNO-fontsize330, TNO-fontsize335, etc
-                                 <div class="TNO-fontsize475"><h1>Hello World</h1></div>
+ TNO-fontsize1-200              Changes the font size up to 200
+                                 
  
  TNO-rainbowtext                 Makes Text Flash Five Different Colors Forever
  TNO-rainbowtext1sec             Makes Text Flash Five Different In 1 Second Forever
