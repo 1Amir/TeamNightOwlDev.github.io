@@ -3,7 +3,10 @@ TNO.css - Update History
 **VERY SOON**
 >A Way To Move Text Without Opening A CSS File
 >Add New Color Selection's To Rainbow Text Attribute
->More Colors Added To Color Shade Section
+>More Google Fonts
+
+0.13 (15/12/2017)
+>Added three google fonts for use as headers
 
 0.12 (29/11/2017)
 >The font Size Attribute Can Now Go Up By Ones's, But Can Only Hit font-size 200px Instead Of 500px
