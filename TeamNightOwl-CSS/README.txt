@@ -34,7 +34,7 @@ Example:<div class="TNO-rainbowtext TNO-fontsize100 TNO-textshadow4px"><h1>I Am 
 
 
 All Attributes Currently In TeamNightOwl.CSS
-______________________________________________________________________________________________________________________________
+_____________________________________________________________________________________________________________________________
  TNO-underline        Underlines Your Code
  TNO-overline         Places Line Above Code
  TNO-linethrough      Places Line Through Text
@@ -60,6 +60,9 @@ ________________________________________________________________________________
  TNO-boxtshadow9px   Makes A 9px Box Shadow To Go Onto Your Text
  TNO-boxshadow10px   Makes A 10px Box Shadow To Go Onto Your Text
  
+ TNO-headFont1-5       Adds A Font To Your Header
+ TNO-textFont1         Adds A Font To Your text
+
  TNO-red              Makes Text red
  TNO-blue             Makes Text blue
  TNO-lightblue        Makes Text Light Blue
