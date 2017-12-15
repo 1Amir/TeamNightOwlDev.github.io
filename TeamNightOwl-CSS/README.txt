@@ -1,6 +1,8 @@
 TeamNightOwl.CSS
 _____________________________________________________________________________________________________________________________
 
+UPDATE LOG: https://github.com/TeamNightOwlDev/TeamNightOwlDev.github.io/blob/master/TeamNightOwl-CSS/Update-Log.txt
+
 How To Add TNO.css To Your Website
 _________________________________________
 Enter This Into Your Website <head> Tags: 
@@ -33,8 +35,8 @@ Example:<div class="TNO-rainbowtext TNO-fontsize100 TNO-textshadow4px"><h1>I Am 
 
 All Attributes Currently In TeamNightOwl.CSS
 _____________________________________________________________________________________________________________________________
- TNO-underline                   Underlines Your Code
- TNO-overline                    Places Line Above Code
+ TNO-underline                   Underlines Your Text
+ TNO-overline                    Places Line Above Text
  TNO-linethrough                 Places Line Through Text
  
  TNO-textshadow1px               Makes A 1px Shadow To Go Onto Your Text
