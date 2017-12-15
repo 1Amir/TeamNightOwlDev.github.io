@@ -81,9 +81,8 @@ ________________________________________________________________________________
  TNO-textalignleft               Align Text With Left Of Page
  TNO-textalignright              Aligns Text With Right Of Page
  
- TNO-fontsize1-200              Changes the font size up to 200
+ TNO-fontsize1-200               Changes the font size up to 200
                                  
- 
  TNO-rainbowtext                 Makes Text Flash Five Different Colors Forever
  TNO-rainbowtext1sec             Makes Text Flash Five Different In 1 Second Forever
  TNO-rainbowtext2sec             Makes Text Flash Five Different In 2 Second Forever
