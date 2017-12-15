@@ -59,6 +59,9 @@ ________________________________________________________________________________
  TNO-boxshadow9px                Makes A 9px Box Shadow To Go Onto Your Shape
  TNO-boxshadow10px               Makes A 10px Box Shadow To Go Onto Your Shape
  
+ TNO-headFont1-5                 Sets A Font For Your Websites Header
+ TNO-textFont1-5                 Sets A Font For Your Websites Text
+ 
  TNO-red                         Makes Text red
  TNO-redshade1-8                 Select Shade Of Red From 1 to 8
  
