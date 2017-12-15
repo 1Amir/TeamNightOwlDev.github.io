@@ -1,7 +1,5 @@
-TeamNightOwl.css
-
-UpdateLog- https://github.com/TeamNightOwlDev/TeamNightOwlDev.github.io/blob/master/TeamNightOwl-CSS/Update-Log.txt
-__________________________________________________________________________________________________
+TeamNightOwl.CSS
+_____________________________________________________________________________________________________________________________
 
 How To Add TNO.css To Your Website
 _________________________________________
@@ -35,56 +33,59 @@ Example:<div class="TNO-rainbowtext TNO-fontsize100 TNO-textshadow4px"><h1>I Am 
 
 All Attributes Currently In TeamNightOwl.CSS
 _____________________________________________________________________________________________________________________________
- TNO-underline        Underlines Your Code
- TNO-overline         Places Line Above Code
- TNO-linethrough      Places Line Through Text
- TNO-textshadow1px    Makes A 1px Shadow To Go Onto Your Text
- TNO-textshadow2px    Makes A 2px Shadow To Go Onto Your Text
- TNO-textshadow3px    Makes A 3px Shadow To Go Onto Your Text
- TNO-textshadow4px    Makes A 4px Shadow To Go Onto Your Text
- TNO-textshadow5px    Makes A 5px Shadow To Go Onto Your Text
- TNO-textshadow6px    Makes A 6px Shadow To Go Onto Your Text
- TNO-textshadow7px    Makes A 7px Shadow To Go Onto Your Text
- TNO-textshadow8px    Makes A 8px Shadow To Go Onto Your Text
- TNO-textshadow9px    Makes A 9px Shadow To Go Onto Your Text
- TNO-textshadow10px   Makes A 10px Shadow To Go Onto Your Text
+ TNO-underline                   Underlines Your Code
+ TNO-overline                    Places Line Above Code
+ TNO-linethrough                 Places Line Through Text
  
- TNO-boxshadow1px    Makes A 1px Box Shadow To Go Onto Your Text
- TNO-boxshadow2px    Makes A 2px Box Shadow To Go Onto Your Text
- TNO-boxshadow3px    Makes A 3px Box Shadow To Go Onto Your Text
- TNO-boxshadow4px    Makes A 4px Box Shadow To Go Onto Your Text
- TNO-boxshadow5px    Makes A 5px Box Shadow To Go Onto Your Text
- TNO-boxshadow6px    Makes A 6px Box Shadow To Go Onto Your Text
- TNO-boxshadow7px    Makes A 7px Box Shadow To Go Onto Your Text
- TNO-boxshadow8px    Makes A 8px Box Shadow To Go Onto Your Text
- TNO-boxtshadow9px   Makes A 9px Box Shadow To Go Onto Your Text
- TNO-boxshadow10px   Makes A 10px Box Shadow To Go Onto Your Text
- 
- TNO-headFont1-5       Adds A Font To Your Header
- TNO-textFont1         Adds A Font To Your text
+ TNO-textshadow1px               Makes A 1px Shadow To Go Onto Your Text
+ TNO-textshadow2px               Makes A 2px Shadow To Go Onto Your Text
+ TNO-textshadow3px               Makes A 3px Shadow To Go Onto Your Text
+ TNO-textshadow4px               Makes A 4px Shadow To Go Onto Your Text
+ TNO-textshadow5px               Makes A 5px Shadow To Go Onto Your Text
+ TNO-textshadow6px               Makes A 6px Shadow To Go Onto Your Text
+ TNO-textshadow7px               Makes A 7px Shadow To Go Onto Your Text
+ TNO-textshadow8px               Makes A 8px Shadow To Go Onto Your Text
+ TNO-textshadow9px               Makes A 9px Shadow To Go Onto Your Text
+ TNO-textshadow10px              Makes A 10px Shadow To Go Onto Your Text
 
- TNO-red              Makes Text red
- TNO-blue             Makes Text blue
- TNO-lightblue        Makes Text Light Blue
- TNO-white            Makes Text White
- TNO-black            Makes Text Black
- TNO-yellow           Makes Text Yellow
- TNO-green            Makes Text Green
- TNO-purple           Makes Text Purple
- TNO-orange           Makes Text Orange
- TNO-darkorange       Makes Text Dark Orange
+ TNO-boxshadow1px                Makes A 1px Box Shadow To Go Onto Your Shape
+ TNO-boxshadow2px                Makes A 2px Box Shadow To Go Onto Your Shape
+ TNO-boxshadow3px                Makes A 3px Box Shadow To Go Onto Your Shape
+ TNO-boxshadow4px                Makes A 4px Box Shadow To Go Onto Your Shape
+ TNO-boxshadow5px                Makes A 5px Box Shadow To Go Onto Your Shape
+ TNO-boxshadow6px                Makes A 6px Box Shadow To Go Onto Your Shape
+ TNO-boxshadow7px                Makes A 7px Box Shadow To Go Onto Your Shape
+ TNO-boxshadow8px                Makes A 8px Box Shadow To Go Onto Your Shape
+ TNO-boxshadow9px                Makes A 9px Box Shadow To Go Onto Your Shape
+ TNO-boxshadow10px               Makes A 10px Box Shadow To Go Onto Your Shape
  
- TNO-textaligncenter  Aligns Text With Center Of Page
- TNO-textalignleft    Align Text With Left Of Page
- TNO-textalignright   Aligns Text With Right Of Page
+ TNO-red                         Makes Text red
+ TNO-redshade1-8                 Select Shade Of Red From 1 to 8
  
- TNO-fontsizeNUMBER<--Enter A Number Up To 500 Here.Number Must Go Up By 5's
- Example:TNO-fontsize325, TNO-fontsize330, TNO-fontsize335, etc
+ TNO-blue                        Makes Text blue
+ TNO-blueshade1-8                Select Shade Of Blue From 1 to 8
+  
+ TNO-grey                        Makes Text Grey
+ TNO-greyshade1-8                Select Shade Of Grey From 1 to 8                   
+                                                                                     
+ TNO-yellow                      Makes Text Yellow
+ TNO-yellowshade1-8              Select Shade Of Yellow From 1 to 8        
  
+ TNO-green                       Makes Text Green
+ TNO-greenshade1-8               Select Shade Of Green From 1 to 8
+
+ TNO-purple                      Makes Text Purple
+ TNO-purpleshade1-8              Select Shade Of Purple From 1 to 8
  
- TNO-rainbowtext      Makes Text Flash Five Different Colors Forever
- TNO-rainbowtext1sec  Makes Text Flash Five Different In 1 Second Forever
- TNO-rainbowtext2sec  Makes Text Flash Five Different In 2 Second Forever
- TNO-rainbowtext3sec  Makes Text Flash Five Different In 3 Second Forever
- TNO-rainbowtext4sec  Makes Text Flash Five Different In 4 Second Forever
- TNO-rainbowtext5sec  Makes Text Flash Five Different In 5 Second Forever
+ TNO-textaligncenter             Aligns Text With Center Of Page
+ TNO-textalignleft               Align Text With Left Of Page
+ TNO-textalignright              Aligns Text With Right Of Page
+ 
+ TNO-fontsize1-200               Changes the font size up to 200
+                                 
+ TNO-rainbowtext                 Makes Text Flash Five Different Colors Forever
+ TNO-rainbowtext1sec             Makes Text Flash Five Different In 1 Second Forever
+ TNO-rainbowtext2sec             Makes Text Flash Five Different In 2 Second Forever
+ TNO-rainbowtext3sec             Makes Text Flash Five Different In 3 Second Forever
+ TNO-rainbowtext4sec             Makes Text Flash Five Different In 4 Second Forever
+ TNO-rainbowtext5sec             Makes Text Flash Five Different In 5 Second Forever
