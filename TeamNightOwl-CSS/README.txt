@@ -44,6 +44,21 @@ ________________________________________________________________________________
  TNO-textshadow4px    Makes A 4px Shadow To Go Onto Your Text
  TNO-textshadow5px    Makes A 5px Shadow To Go Onto Your Text
  TNO-textshadow6px    Makes A 6px Shadow To Go Onto Your Text
+ TNO-textshadow7px    Makes A 7px Shadow To Go Onto Your Text
+ TNO-textshadow8px    Makes A 8px Shadow To Go Onto Your Text
+ TNO-textshadow9px    Makes A 9px Shadow To Go Onto Your Text
+ TNO-textshadow10px   Makes A 10px Shadow To Go Onto Your Text
+ 
+ TNO-boxshadow1px    Makes A 1px Box Shadow To Go Onto Your Text
+ TNO-boxshadow2px    Makes A 2px Box Shadow To Go Onto Your Text
+ TNO-boxshadow3px    Makes A 3px Box Shadow To Go Onto Your Text
+ TNO-boxshadow4px    Makes A 4px Box Shadow To Go Onto Your Text
+ TNO-boxshadow5px    Makes A 5px Box Shadow To Go Onto Your Text
+ TNO-boxshadow6px    Makes A 6px Box Shadow To Go Onto Your Text
+ TNO-boxshadow7px    Makes A 7px Box Shadow To Go Onto Your Text
+ TNO-boxshadow8px    Makes A 8px Box Shadow To Go Onto Your Text
+ TNO-boxtshadow9px   Makes A 9px Box Shadow To Go Onto Your Text
+ TNO-boxshadow10px   Makes A 10px Box Shadow To Go Onto Your Text
  
  TNO-red              Makes Text red
  TNO-blue             Makes Text blue
