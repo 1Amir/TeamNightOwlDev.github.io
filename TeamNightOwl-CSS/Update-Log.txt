@@ -3,7 +3,11 @@ TNO.css - Update History
 **VERY SOON**
 >A Way To Move Text Without Opening A CSS File
 >Add New Color Selection's To Rainbow Text Attribute
->More Google Fonts
+>An Open-Source Version Of TNO.css
+
+0.14 (15/12/2017)
+>There is now a total of 5 google fonts for headers
+>Five normal text fonts added
 
 0.13 (15/12/2017)
 >Added three google fonts for use as headers
