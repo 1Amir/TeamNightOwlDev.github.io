@@ -50,6 +50,8 @@ ________________________________________________________________________________
  TNO-textshadow9px               Makes A 9px Shadow To Go Onto Your Text
  TNO-textshadow10px              Makes A 10px Shadow To Go Onto Your Text
 
+ TNO-square1px-50px
+
  TNO-boxshadow1px                Makes A 1px Box Shadow To Go Onto Your Shape
  TNO-boxshadow2px                Makes A 2px Box Shadow To Go Onto Your Shape
  TNO-boxshadow3px                Makes A 3px Box Shadow To Go Onto Your Shape
