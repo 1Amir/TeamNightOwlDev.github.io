@@ -39,6 +39,8 @@ ________________________________________________________________________________
  TNO-overline                    Places Line Above Text
  TNO-linethrough                 Places Line Through Text
  
+ TNO-opacity1-9                  Changes Visability Of Text And Shapes
+ 
  TNO-textshadow1px               Makes A 1px Shadow To Go Onto Your Text
  TNO-textshadow2px               Makes A 2px Shadow To Go Onto Your Text
  TNO-textshadow3px               Makes A 3px Shadow To Go Onto Your Text
@@ -49,6 +51,9 @@ ________________________________________________________________________________
  TNO-textshadow8px               Makes A 8px Shadow To Go Onto Your Text
  TNO-textshadow9px               Makes A 9px Shadow To Go Onto Your Text
  TNO-textshadow10px              Makes A 10px Shadow To Go Onto Your Text
+
+ TNO-square1-50px                Creates A Square
+ TNO-square1-50MF                Creates A Mobile Friendly square
 
  TNO-boxshadow1px                Makes A 1px Box Shadow To Go Onto Your Shape
  TNO-boxshadow2px                Makes A 2px Box Shadow To Go Onto Your Shape
@@ -94,3 +99,7 @@ ________________________________________________________________________________
  TNO-rainbowtext3sec             Makes Text Flash Five Different In 3 Second Forever
  TNO-rainbowtext4sec             Makes Text Flash Five Different In 4 Second Forever
  TNO-rainbowtext5sec             Makes Text Flash Five Different In 5 Second Forever
+ 
+ TNO-gradientFAST                Makes A Fast Animated Gradient Go Across The Screen
+ TNO-gradientNORMAL              Makes A Normal Animated Gradient Go Across The Screen
+ TNO-gradientSLOW                Makes A Slow Animated Gradient Go Across The Screen
