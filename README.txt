@@ -8,7 +8,7 @@ _________________________________________
 
 Enter This Into Your Website <head> Tags: 
 <head>
-<link rel="stylesheet" type="text/css" href="https://TeamNightOwlDev.github.io/TeamNightOwl-CSS/TNO-OfficialBuild.css">
+<link rel="stylesheet" type="text/css" href="https://teamnightowldev.github.io/Explansion/Explansion.css">
 </head>
 
 Explansion is an extension to HTML5 adding more tags, making coding easier and quicker for everything. It currently works
