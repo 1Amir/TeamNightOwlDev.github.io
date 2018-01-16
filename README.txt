@@ -1,20 +1,34 @@
-Explansion
-_____________________________________________________________________________________________________________________________
 
-UPDATE LOG: https://github.com/TeamNightOwlDev/TeamNightOwlDev.github.io/blob/master/TeamNightOwl-CSS/Update-Log.txt
+|=======================|
+|===_____        __  ===|
+|===  |   |\  | |  | ===|
+|===  |   | \ | |  | ===|
+|===  |   |  \| |__| ===|
+|=======================|
 
-How To Add Explansion To Your Website
-_________________________________________
+EXPANSION:
 
-Enter This Into Your Website <head> Tags: 
+Explansion Was Developed By TeamNightOwl© ALL RIGHTS RESERVED
+
+
+HOW TO USE EXPLANSION
+______________________
+Explansion Uses CSS To Make All The New Tags Functional And Working. You Must Add This To Your Website In Able For Everything To Work...
+
 <head>
 <link rel="stylesheet" type="text/css" href="https://teamnightowldev.github.io/Explansion/Explansion.css">
 </head>
 
-Explansion is an extension to HTML5 adding more tags, making coding easier and quicker for everything. It currently works
-using CSS, taking advantage of the ability to vreate your own tags. Its nothing fancy, but can save you hours of your time.
-All Tags Currently In Explansion
-_____________________________________________________________________________________________________________________________
+Everything Works Like The Normal HTML Tags, With Everything Specfically Worded,
+Speeding Up Your Coding Process
+
+Explansion Comes With Snipplet Support For Atom. If You Want To Take
+Advantage Of This, And Know How To Manually Set Up Snipplets, Look
+In The Extras Folder For The .CSON File
+
+
+ALL TAGS IN EXPLANSION
+_______________________
 <red></red>            Makes Text The Color Red
 <red1></red1>          Makes A Shade Of Red (GOES ALL THE WAY UP TO 8)
 
