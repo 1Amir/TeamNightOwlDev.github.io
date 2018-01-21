@@ -1,8 +1,8 @@
 
 |=======================|
 |===_____        __  ===|
-|===  |   |\  | |  | ===|
-|===  |   | \ | |  | ===|
+|===  |   |\  | |  | ===| TeamNightOwl© 2017
+|===  |   | \ | |  | ===| Last Updated
 |===  |   |  \| |__| ===|
 |=======================|
 
@@ -19,39 +19,26 @@ Explansion Uses CSS To Make All The New Tags Functional And Working. You Must Ad
 <link rel="stylesheet" type="text/css" href="https://teamnightowldev.github.io/Explansion/Explansion.css">
 </head>
 
-Everything Works Like The Normal HTML Tags, With Everything Specfically Worded,
-Speeding Up Your Coding Process
+Everything Works Like The Normal HTML Tags, With Everything Specfically Worded, Speeding Up Your Coding Process. Explansion's Main Purpose Is To Add Tags That Should Be In HTML, But For Some Reason Our Not. Explansion Does Not Replace HTML, But Instead Adds More Features. Explansion Is Not Meant To Be Any Sort Of A Replacement For CSS And Javascript.
 
 Explansion Comes With Snipplet Support For Atom. If You Want To Take
 Advantage Of This, And Know How To Manually Set Up Snipplets, Look
 In The Extras Folder For The .CSON File
 
+DEVELOPMENT TEAM     EMAIL
+________________     _____________________________________________
+@ITS_N1GH7OWL        Chrisnightowyt@gmail.com
+
+
 
 ALL TAGS IN EXPLANSION
 _______________________
-<red></red>            Makes Text The Color Red
-<red1></red1>          Makes A Shade Of Red (GOES ALL THE WAY UP TO 8)
 
-<blue></blue>          Makes Text The Color blue
-<blue1></blue1>        Makes A Shade Of blue (GOES ALL THE WAY UP TO 8)
 
-<green></green>        Makes Text The Color green
-<green1></green1>      Makes A Shade Of green (GOES ALL THE WAY UP TO 8)
-
-<yellow></yellow>      Makes Text The Color yellow
-<yellow1></yellow1>    Makes A Shade Of yellow (GOES ALL THE WAY UP TO 8)
-
-<purple></purple>      Makes Text The Color purple
-<purple1></purple1>    Makes A Shade Of purple (GOES ALL THE WAY UP TO 8)
-
-<grey></grey>          Makes Text The Color grey
-<grey1></grey1>        Makes A Shade Of grey (GOES ALL THE WAY UP TO 8)
-
-<alignC></alignC>      Aligns Text WIth Center
-<alignL></alignL>      Aligns Text WIth Left
-<alignR></alignR>      Aligns Text WIth Right
-
-<marginA></marginA>    Makes Margin Auto
+<COLOURNAME>           Refer To Explansion/Extra/Colours.mhtml
+                       In Your Files. Allows You To Colour Your
+                       Text Using The New Colour Tags. There Is
+                       A Total Of 140
 
 <size1></size1>        Changes Font Size All The Way Up To 200
 
