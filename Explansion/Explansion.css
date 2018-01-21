@@ -1,0 +1,1979 @@
+/*Explansion.css*/
+
+/*______________________________________*/
+/*This Is An Early Release Of Explansion.
+Some Features May Be Removed In The Final
+Version Or During Development
+/*______________________________________*/
+
+
+@import url('https://fonts.googleapis.com/css?family=Supermercado+One');
+
+@import url('https://fonts.googleapis.com/css?family=Joti+One');
+
+@import url('https://fonts.googleapis.com/css?family=Shadows+Into+Light');
+
+@import url('https://fonts.googleapis.com/css?family=Libre+Barcode+39');
+
+@import url('https://fonts.googleapis.com/css?family=Great+Vibes');
+
+@import url('https://fonts.googleapis.com/css?family=Monoton');
+/*Exotic Colors*/
+
+aliceblue {
+  color: #F0F8FF;
+}
+antiquewhite {
+  color: #FAEBD7;
+}
+aqua {
+  color: #00FFFF;
+}
+aquamarine {
+  color: #7FFFD4;
+}
+azure {
+  color: #F0FFFF;
+}
+beige {
+  color: #F5F5DC;
+}
+bisque {
+  color: #FFE4C4;
+}
+black {
+  color: #000000;
+}
+blanchedalmond {
+  color: #FFEBCD;
+}
+blue {
+  color: #0000FF;
+}
+blueviolet {
+  color: #8A2BE2;
+}
+brown {
+  color: #A52A2A;
+}
+burlywood {
+  color: #DEB887;
+}
+cadetblue {
+  color: #5F9EA0;
+}
+chartreuse {
+  color: #7FFF00;
+}
+chocolate {
+  color: #D2691E;
+}
+coral {
+  color: #FF7F50;
+}
+cornflowerblue {
+  color: #6495ED;
+}
+cornsilk {
+  color: #FFF8DC;
+}
+crimson {
+  color: #DC143C;
+}
+cyan {
+  color: #00FFFF;
+}
+darkblue {
+  color: #00008B;
+}
+darkcyan {
+  color: #008B8B;
+}
+darkgoldenrod {
+  color: #B8860B;
+}
+darkgray {
+  color: #A9A9A9;
+}
+darkgreen {
+  color: #006400;
+}
+darkkhaki {
+  color: #BDB76B;
+}
+darkmagenta {
+  color: #8B008B;
+}
+darkolivegreen {
+  color: #556B2F;
+}
+darkorange {
+  color: #FF8C00;
+}
+darkorchid {
+  color: #9932CC;
+}
+darkred {
+  color: #8B0000;
+}
+darksalmon {
+  color: #E9967A;
+}
+darkseagreen {
+  color: #8FBC8F;
+}
+darkslateblue {
+  color: #483D8B;
+}
+darkslategray {
+  color: #2F4F4F;
+}
+darkturquoise {
+  color: #00CED1;
+}
+darkviolet {
+  color: #9400d3;
+}
+deeppink {
+  color: #FF1493;
+}
+deepskyblue {
+  color: #00BFFF;
+}
+dimgray {
+  color: #696969;
+}
+dodgerblue {
+  color: #1E90FF;
+}
+firebrick {
+  color: #B22222;
+}
+floralwhite {
+  color: #FFFAF0;
+}
+forestgreen {
+  color: #228B22;
+}
+fuchsia {
+  color: #FF00FF;
+}
+gainsboro {
+  color: #DCDCDC;
+}
+ghostwhite {
+  color: #F8F8FF;
+}
+gold {
+  color: #FFD700;
+}
+goldenrod {
+  color: #DAA520;
+}
+gray {
+  color: #808080;
+}
+green {
+  color: #008000;
+}
+greenyellow {
+  color: #ADFF2F;
+}
+honeydew {
+  color: #F0FFF0;
+}
+hotpink {
+  color: #FF69B4;
+}
+indianred {
+  color: #CD5C5C;
+}
+indigo {
+  color: #4B0082;
+}
+ivory {
+  color: #FFFFF0;
+}
+khaki {
+  color: #F0E68C;
+}
+lavender {
+  color: #E6E6FA;
+}
+lavenderblush {
+  color: #FFF0F5;
+}
+lawngreen {
+  color: #7CFC00;
+}
+lemonchiffon {
+  color: #FFFACD;
+}
+lightblue {
+  color: #ADD8E6;
+}
+lightcoral {
+  color: #F08080;
+}
+lightcyan {
+  color: #E0FFFF;
+}
+lightgoldenrodyellow {
+  color: #FAFAD2;
+}
+lightgreen {
+  color: #90EE90;
+}
+lightgrey {
+  color: #D3D3D3;
+}
+lightpink {
+  color: #FFB6C1;
+}
+lightsalmon {
+  color: #FFA07A;
+}
+lightseagreen {
+  color: #20B2AA;
+}
+lightskyblue {
+  color: #87CEFA;
+}
+lightslategray {
+  color: #778899;
+}
+lightsteelblue {
+  color: #B0C4DE;
+}
+lightyellow {
+  color: #FFFFE0;
+}
+lime {
+  color: #00FF00;
+}
+limegreen {
+  color: #32CD32;
+}
+linen {
+  color: #FAF0E6;
+}
+magenta {
+  color: #FF00FF;
+}
+maroon {
+  color: #800000;
+}
+mediumaquamarine {
+  color: #66CDAA;
+}
+mediumblue {
+  color: #0000CD;
+}
+mediumorchid {
+  color: #BA55D3;
+}
+mediumpurple {
+  color: #9370DB;
+}
+mediumseagreen {
+  color: #3CB371;
+}
+mediumslateblue {
+  color: #7B68EE;
+}
+mediumspringgreen {
+  color: #00FA9A;
+}
+mediumturquoise {
+  color: #48D1CC;
+}
+mediumvioletred {
+  color: #C71585;
+}
+midnightblue {
+  color: #191970;
+}
+mintcream {
+  color: #F5FFFA;
+}
+mistyrose {
+  color: #FFE4E1;
+}
+moccasin {
+  color: #FFE4B5;
+}
+navajowhite {
+  color: #FFDEAD;
+}
+navy {
+  color: #000080;
+}
+oldlace {
+  color: #FDF5E6;
+}
+olive {
+  color: #808000;
+}
+olivedrab {
+  color: #6B8E23;
+}
+orange {
+  color: #FFA500;
+}
+orangered {
+  color: #FF4500;
+}
+orchid {
+  color: #DA70D6;
+}
+palegoldenrod {
+  color: #EEE8AA;
+}
+palegreen {
+  color: #98FB98;
+}
+paleturquoise {
+  color: #AFEEEE;
+}
+palevioletred {
+  color: #DB7093;
+}
+papayawhip {
+  color: #FFEFD5;
+}
+peachpuff {
+  color: #FFDAB9;
+}
+peru {
+  color: #CD853F;
+}
+pink {
+  color: #FFC0CB;
+}
+plum {
+  color: #DDA0DD;
+}
+powderblue {
+  color: #B0E0E6;
+}
+purple {
+  color: #800080;
+}
+red {
+  color: #FF0000;
+}
+rosybrown {
+  color: #BC8F8F;
+}
+royalblue {
+  color: #4169E1;
+}
+saddlebrown {
+  color: #8B4513;
+}
+salmon {
+  color: #FA8072;
+}
+sandybrown {
+  color: #F4A460;
+}
+seagreen {
+  color: #2E8B57;
+}
+seashell {
+  color: #FFF5EE;
+}
+sienna {
+  color: #A0522D;
+}
+silver {
+  color: #C0C0C0;
+}
+skyblue {
+  color: #87CEEB;
+}
+slateblue {
+  color: #6A5ACD;
+}
+slategray {
+  color: #708090;
+}
+snow {
+  color: #FFFAFA;
+}
+springgreen {
+  color: #00FF7F;
+}
+steelblue {
+  color: #4682B4;
+}
+tan {
+  color: #D2B48C;
+}
+teal {
+  color: #008080;
+}
+thistle {
+  color: #D8BFD8;
+}
+tomato {
+  color: #FF6347;
+}
+turquoise {
+  color: #40E0D0;
+}
+violet {
+  color: #EE82EE;
+}
+wheat {
+  color: #F5DEB3;
+}
+white {
+  color: #FFFFFF;
+}
+whitesmoke {
+  color: #F5F5F5;
+}
+yellow {
+  color: #FFFF00;
+}
+yellowgreen {
+  color: #9ACD32;
+}
+/*Hovering Over Text*/
+
+redH:hover {
+  color: red;
+}
+red1H:hover {
+  color: #641E16;
+}
+red2H:hover {
+  color: #7B241C;
+}
+red3H:hover {
+  color: #922B21;
+}
+red4H:hover {
+  color: #A93226;
+}
+red5H:hover {
+  color: #C0392B;
+}
+red6H:hover {
+  color: #CD6155;
+}
+red7H:hover {
+  color: #D98880;
+}
+red8H:hover {
+  color: #E6B0AA;
+}
+blueH:hover {
+  color: blue;
+}
+blue1H:hover {
+  color: #1B4F72;
+}
+blue2H:hover {
+  color: #21618C;
+}
+blue3H:hover {
+  color: #2874A6;
+}
+blue4H:hover {
+  color: #2E86C1;
+}
+blue5H:hover {
+  color: #3498DB;
+}
+blue6H:hover {
+  color: #5DADE2;
+}
+blue7H:hover {
+  color: #85C1E9;
+}
+blue8H:hover {
+  color: #AED6F1;
+}
+greenH:hover {
+  color: green;
+}
+green1H:hover {
+  color: #145A32;
+}
+green2H:hover  {
+  color: #196F3D;
+}
+green3H:hover  {
+  color: #1E8449;
+}
+green4H:hover  {
+  color: #229954;
+}
+green5H:hover  {
+  color: #27AE60;
+}
+green6H:hover  {
+  color: #52BE80;
+}
+green7H:hover  {
+  color: #7DCEA0;
+}
+green8H:hover  {
+  color: #A9DFBF;
+}
+yellowH:hover  {
+  color: yellow;
+}
+yellow1H:hover  {
+  color: #7D6608;
+}
+yellow2H:hover  {
+  color: #9A7D0A;
+}
+yellow3H:hover  {
+  color: #B7950B;
+}
+yellow4H:hover  {
+  color: #D4AC0D;
+}
+yellow5H:hover  {
+  color: #F1C40F;
+}
+yellow6H:hover  {
+  color: #F4D03F;
+}
+yellow7H:hover  {
+  color: #F7DC6F;
+}
+yellow8H:hover  {
+  color: #F9E79F;
+}
+purpleH:hover  {
+  color: purple;
+}
+purple1H:hover  {
+  color: #4A235A;
+}
+purple2H:hover  {
+  color: #5B2C6F;
+}
+purple3H:hover  {
+  color: #6C3483;
+}
+purple4H:hover  {
+  color: #7D3C98;
+}
+purple5H:hover  {
+  color: #8E44AD;
+}
+purple6H:hover  {
+  color: #A569BD;
+}
+purple7H:hover  {
+  color: #BB8FCE;
+}
+purple8H:hover  {
+  color: #D2B4DE;
+}
+greyH:hover {
+  color: grey;
+}
+grey1H:hover{
+  color: #424949;
+}
+grey2H:hover{
+  color: #515A5A;
+}
+grey3H:hover {
+  color: #616A6B;
+}
+grey4H:hover {
+  color: #707B7C;
+}
+grey5H:hover{
+  color: #7F8C8D;
+}
+grey6H:hover{
+  color: #99A3A4;
+}
+grey7H:hover{
+  color: #B2BABB;
+}
+grey8H:hover {
+  color: #CCD1D1;
+}
+rainbowH:hover {
+  -webkit-animation: rainbow 3s infinite;
+  -moz-animation: rainbow 3s infinite;
+  -ms-animation: rainbow 3s infinite;
+  animation: rainbow 3s infinite;
+  color: orange;
+}
+/*Google Fonts*/
+fancyF {
+  font-family: 'Great Vibes', cursive;
+}
+firmF {
+  font-family: 'Supermercado One', cursive;
+}
+funkyF {
+  font-family: 'Joti One', cursive;
+}
+funF {
+  font-family: 'Monoton', cursive;
+}
+messyF {
+  font-family: 'Shadows Into Light', cursive;
+}
+barcodeF {
+  font-family: 'Libre Barcode 39', cursive;
+}
+
+/*Code Block Loader*/
+
+pre loader {
+  background-color: #eee;
+  border: 1px solid #999;
+  display: block;
+  padding: 20px;
+}
+/*Font Size*/
+
+size1 {
+  font-size: 1px;
+}
+size2 {
+  font-size: 2px;
+}
+size3 {
+  font-size: 3px;
+}
+size4 {
+  font-size: 4px;
+}
+size5 {
+  font-size: 5px;
+}
+size6 {
+  font-size: 6px;
+}
+size7 {
+  font-size: 7px;
+}
+size8 {
+  font-size: 8px;
+}
+size9 {
+  font-size: 9px;
+}
+size10 {
+  font-size: 10px;
+}
+size11 {
+  font-size: 11px;
+}
+size12 {
+  font-size: 12px;
+}
+size13 {
+  font-size: 13px;
+}
+size14 {
+  font-size: 14px;
+}
+size15 {
+  font-size: 15px;
+}
+size16 {
+  font-size: 16px;
+}
+size17 {
+  font-size: 17px;
+}
+size18 {
+  font-size: 18px;
+}
+size19 {
+  font-size: 19px;
+}
+size20 {
+  font-size: 20px;
+}
+size21 {
+  font-size: 21px;
+}
+size22 {
+  font-size: 22px;
+}
+size23{
+  font-size: 23px;
+}
+size24 {
+  font-size: 24px;
+}
+size25 {
+  font-size: 25px;
+}
+size26 {
+  font-size: 26px;
+}
+size27 {
+  font-size: 27px;
+}
+size28 {
+  font-size: 28px;
+}
+size29 {
+  font-size: 29px;
+}
+size30 {
+  font-size: 30px;
+}
+size31 {
+  font-size: 31px;
+}
+size32 {
+  font-size: 32px;
+}
+size33 {
+  font-size: 33px;
+}
+size34 {
+  font-size: 34px;
+}
+size35 {
+  font-size: 35px;
+}
+size36 {
+  font-size: 36px;
+}
+size37 {
+  font-size: 37px;
+}
+size38 {
+  font-size: 38px;
+}
+size39 {
+  font-size: 39px;
+}
+size40 {
+  font-size: 40px;
+}
+size41 {
+  font-size: 41px;
+}
+size42 {
+  font-size: 42px;
+}
+size43 {
+  font-size: 43px;
+}
+size44 {
+  font-size: 44px;
+}
+size45 {
+  font-size: 45px;
+}
+size46 {
+  font-size: 46px;
+}
+size47 {
+  font-size: 47px;
+}
+size48 {
+  font-size: 48px;
+}
+size49 {
+  font-size: 49px;
+}
+size50 {
+  font-size: 50px;
+}
+size51 {
+  font-size: 51px;
+}
+size52 {
+  font-size: 52px;
+}
+size53 {
+  font-size: 53px;
+}
+size54 {
+  font-size: 54px;
+}
+size55 {
+  font-size: 55px;
+}
+size56 {
+  font-size: 56px;
+}
+size57 {
+  font-size: 57px;
+}
+size58 {
+  font-size: 58px;
+}
+size59 {
+  font-size: 59px;
+}
+size60 {
+  font-size: 60px;
+}
+size61 {
+  font-size: 61px;
+}
+size62 {
+  font-size: 62px;
+}
+size63 {
+  font-size: 63px;
+}
+size64 {
+  font-size: 64px;
+}
+size65 {
+  font-size: 65px;
+}
+size66 {
+  font-size: 66px;
+}
+size67 {
+  font-size: 67px;
+}
+size68 {
+  font-size: 68px;
+}
+size69 {
+  font-size: 69px;
+}
+size70 {
+  font-size: 70px;
+}
+size71 {
+  font-size: 71px;
+}
+size72 {
+  font-size: 72px;
+}
+size73 {
+  font-size: 73px;
+}
+size74 {
+  font-size: 74px;
+}
+size75 {
+  font-size: 75px;
+}
+size76 {
+  font-size: 76px;
+}
+size77 {
+  font-size: 77px;
+}
+size78 {
+  font-size: 78px;
+}
+size79 {
+  font-size: 79px;
+}
+size80 {
+  font-size: 80px;
+}
+size81 {
+  font-size: 81px;
+}
+size82 {
+  font-size: 82px;
+}
+size83 {
+  font-size: 83px;
+}
+size84 {
+  font-size: 84px;
+}
+size85 {
+  font-size: 85px;
+}
+size86 {
+  font-size: 86px;
+}
+size87 {
+  font-size: 87px;
+}
+size88 {
+  font-size: 88px;
+}
+size89 {
+  font-size: 89px;
+}
+size90 {
+  font-size: 90px;
+}
+size91 {
+  font-size: 91px;
+}
+size92 {
+  font-size: 92px;
+}
+size93 {
+  font-size: 93px;
+}
+size94 {
+  font-size: 94px;
+}
+size95 {
+  font-size: 95px;
+}
+size96 {
+  font-size: 96px;
+}
+size97 {
+  font-size: 97px;
+}
+size98 {
+  font-size: 98px;
+}
+size99 {
+  font-size: 99px;
+}
+size100 {
+  font-size: 100px;
+}
+size101 {
+  font-size: 101px;
+}
+size102 {
+  font-size: 102px;
+}
+size103 {
+  font-size: 103px;
+}
+size104 {
+  font-size: 104px;
+}
+size105 {
+  font-size: 105px;
+}
+size106 {
+  font-size: 106px;
+}
+size107 {
+  font-size: 107px;
+}
+size108 {
+  font-size: 108px;
+}
+size109 {
+  font-size: 109px;
+}
+size110 {
+  font-size: 110px;
+}
+size111 {
+  font-size: 111px;
+}
+size112 {
+  font-size: 112px;
+}
+size113 {
+  font-size: 113px;
+}
+size114 {
+  font-size: 114px;
+}
+size115 {
+  font-size: 115px;
+}
+size116 {
+  font-size: 116px;
+}
+size117 {
+  font-size: 117px;
+}
+size118 {
+  font-size: 118px;
+}
+size119 {
+  font-size: 119px;
+}
+size120 {
+  font-size: 120px;
+}
+size121 {
+  font-size: 121px;
+}
+size122 {
+  font-size: 122px;
+}
+size123{
+  font-size: 123px;
+}
+size124 {
+  font-size: 124px;
+}
+size125 {
+  font-size: 125px;
+}
+size126 {
+  font-size: 126px;
+}
+size127 {
+  font-size: 127px;
+}
+size128 {
+  font-size: 128px;
+}
+size129 {
+  font-size: 129px;
+}
+size130 {
+  font-size: 130px;
+}
+size131 {
+  font-size: 131px;
+}
+size132 {
+  font-size: 132px;
+}
+size133 {
+  font-size: 133px;
+}
+size134 {
+  font-size: 134px;
+}
+size135 {
+  font-size: 135px;
+}
+size136 {
+  font-size: 136px;
+}
+size137 {
+  font-size: 137px;
+}
+size138 {
+  font-size: 138px;
+}
+size139 {
+  font-size: 139px;
+}
+size140 {
+  font-size: 140px;
+}
+size141 {
+  font-size: 141px;
+}
+size142 {
+  font-size: 142px;
+}
+size143 {
+  font-size: 143px;
+}
+size144 {
+  font-size: 144px;
+}
+size145 {
+  font-size: 145px;
+}
+size146 {
+  font-size: 146px;
+}
+size147 {
+  font-size: 147px;
+}
+size148 {
+  font-size: 148px;
+}
+size149 {
+  font-size: 149px;
+}
+size150 {
+  font-size: 150px;
+}
+size151 {
+  font-size: 151px;
+}
+size152 {
+  font-size: 152px;
+}
+size153 {
+  font-size: 153px;
+}
+size154 {
+  font-size: 154px;
+}
+size155 {
+  font-size: 155px;
+}
+size156 {
+  font-size: 156px;
+}
+size157 {
+  font-size: 157px;
+}
+size158 {
+  font-size: 158px;
+}
+size159 {
+  font-size: 159px;
+}
+size160 {
+  font-size: 160px;
+}
+size161 {
+  font-size: 161px;
+}
+size162 {
+  font-size: 162px;
+}
+size163 {
+  font-size: 163px;
+}
+size164 {
+  font-size: 164px;
+}
+size165 {
+  font-size: 165px;
+}
+size166 {
+  font-size: 166px;
+}
+size167 {
+  font-size: 167px;
+}
+size168 {
+  font-size: 168px;
+}
+size169 {
+  font-size: 169px;
+}
+size170 {
+  font-size: 170px;
+}
+size171 {
+  font-size: 171px;
+}
+size172 {
+  font-size: 172px;
+}
+size173 {
+  font-size: 173px;
+}
+size174 {
+  font-size: 174px;
+}
+size175 {
+  font-size: 175px;
+}
+size176 {
+  font-size: 176px;
+}
+size177 {
+  font-size: 177px;
+}
+size178 {
+  font-size: 178px;
+}
+size179 {
+  font-size: 179px;
+}
+size180 {
+  font-size: 180px;
+}
+size181 {
+  font-size: 181px;
+}
+size182 {
+  font-size: 182px;
+}
+size183 {
+  font-size: 183px;
+}
+size184 {
+  font-size: 184px;
+}
+size185 {
+  font-size: 185px;
+}
+size186 {
+  font-size: 186px;
+}
+size187 {
+  font-size: 187px;
+}
+size188 {
+  font-size: 188px;
+}
+size189 {
+  font-size: 189px;
+}
+size190 {
+  font-size: 190px;
+}
+size191 {
+  font-size: 191px;
+}
+size192 {
+  font-size: 192px;
+}
+size193 {
+  font-size: 193px;
+}
+size194 {
+  font-size: 194px;
+}
+size195 {
+  font-size: 195px;
+}
+size196 {
+  font-size: 196px;
+}
+size197 {
+  font-size: 197px;
+}
+size198 {
+  font-size: 198px;
+}
+size199 {
+  font-size: 199px;
+}
+size200 {
+  font-size: 200px;
+}
+size1em {
+  font-size: 1em;
+}
+size2em {
+  font-size: 2em;
+}
+size3em {
+  font-size: 3em;
+}
+size4em {
+  font-size: 4em;
+}
+size5em {
+  font-size: 5em;
+}
+size6em {
+  font-size: 6em;
+}
+size7em {
+  font-size: 7em;
+}
+size8em {
+  font-size: 8em;
+}
+size9em {
+  font-size: 9em;
+}
+size10em {
+  font-size: 10em;
+}
+size11em {
+  font-size: 11em;
+}
+size12em {
+  font-size: 12em;
+}
+size13em {
+  font-size: 13em;
+}
+size14em {
+  font-size: 14em;
+}
+size15em {
+  font-size: 15em;
+  
+size16em {
+  font-size: 16em;
+}
+size17em {
+  font-size: 17em;
+}
+size18em {
+  font-size: 18em;
+}
+size19em {
+  font-size: 19em;
+}
+size20em {
+  font-size: 20em;
+}
+size21em {
+  font-size: 21em;
+}
+size22em {
+  font-size: 22em;
+}
+size23em {
+  font-size: 23em;
+}
+size24em {
+  font-size: 24em;
+}
+size25em {
+  font-size: 25em;
+}
+size26em {
+  font-size: 26em;
+}
+size27em {
+  font-size: 27em;
+}
+size28em {
+  font-size: 28em;
+}
+size29em {
+  font-size: 29em;
+}
+size30em {
+  font-size: 30em;
+}
+size31em {
+  font-size: 31em;
+}
+size32em {
+  font-size: 32em;
+}
+size33em {
+  font-size: 33em;
+}
+size34em {
+  font-size: 34em;
+}
+size35em {
+  font-size: 35em;
+}
+size36em {
+  font-size: 36em;
+}
+size37em {
+  font-size: 37em;
+}
+size38em {
+  font-size: 38em;
+}
+size39em {
+  font-size: 39em;
+}
+size40em {
+  font-size: 40em;
+}
+size41em {
+  font-size: 41em;
+}
+size42em {
+  font-size: 42em;
+}
+size43em {
+  font-size: 43em;
+}
+size44em {
+  font-size: 44em;
+}
+size45em {
+  font-size: 45em;
+}
+size46em {
+  font-size: 46em;
+}
+size47em {
+  font-size: 47em;
+}
+size48em {
+  font-size: 48em;
+}
+size49em {
+  font-size: 49em;
+}
+size50em {
+  font-size: 50em;
+}
+size51em{
+  font-size: 51em;
+}
+size52em {
+  font-size: 52em;
+}
+size53em {
+  font-size: 53em;
+}
+size54em {
+  font-size: 54em;
+}
+size55em {
+  font-size: 55em;
+}
+size56em {
+  font-size: 56em;
+}
+size57em {
+  font-size: 57em;
+}
+size58em {
+  font-size: 58em;
+}
+size59em {
+  font-size: 59em;
+}
+size60em {
+  font-size: 60em;
+}
+size61em {
+  font-size: 61em;
+}
+size62em {
+  font-size: 62em;
+}
+size63em {
+  font-size: 63em;
+}
+size64em {
+  font-size: 64em;
+}
+size65em {
+  font-size: 65em;
+}
+size66em {
+  font-size: 66em;
+}
+size67em {
+  font-size: 67em;
+}
+size68em {
+  font-size: 68em;
+}
+size69em {
+  font-size: 69em;
+}
+size70em {
+  font-size: 70em;
+}
+size71em {
+  font-size: 71em;
+}
+size72em {
+  font-size: 72em;
+}
+size73em {
+  font-size: 73em;
+}
+size74em {
+  font-size: 74em;
+}
+size75em {
+  font-size: 75em;
+}
+size76em {
+  font-size: 76em;
+}
+size77em {
+  font-size: 77em;
+}
+size78em {
+  font-size: 78em;
+}
+size79em {
+  font-size: 79em;
+}
+size80em {
+  font-size: 80em;
+}
+size81em {
+  font-size: 81em;
+}
+size82em {
+  font-size: 82em;
+}
+size83em {
+  font-size: 83em;
+}
+size84em {
+  font-size: 84em;
+}
+size85em {
+  font-size: 85em;
+}
+size86em {
+  font-size: 86em;
+}
+size87em {
+  font-size: 87em;
+}
+size88em {
+  font-size: 88em;
+}
+size89em {
+  font-size: 89em;
+}
+size90em {
+  font-size: 90em;
+}
+size91em {
+  font-size: 91em;
+}
+size92em {
+  font-size: 92em;
+}
+size93em {
+  font-size: 93em;
+}
+size94em {
+  font-size: 94em;
+}
+size95em {
+  font-size: 95em;
+}
+size96em {
+  font-size: 96em;
+}
+size97em {
+  font-size: 97em;
+}
+size98em {
+  font-size: 98em;
+}
+size99em {
+  font-size: 99em;
+}
+size100em {
+  font-size: 100em;
+}
+size101em {
+  font-size: 101em;
+}
+size102em {
+  font-size: 102em;
+}
+size103em {
+  font-size: 103em;
+}
+size104em {
+  font-size: 104em;
+}
+size105em {
+  font-size: 105em;
+}
+size106em {
+  font-size: 106em;
+}
+size107em {
+  font-size: 107em;
+}
+size108em {
+  font-size: 108em;
+}
+size109em {
+  font-size: 109em;
+}
+size110em {
+  font-size: 110em;
+}
+size111em {
+  font-size: 111em;
+}
+size112em {
+  font-size: 112em;
+}
+size113em {
+  font-size: 113em;
+}
+size114em {
+  font-size: 114em;
+}
+size115em {
+  font-size: 115em;
+}
+size116em {
+  font-size: 116em;
+}
+size117em {
+  font-size: 117em;
+}
+size118em {
+  font-size: 118em;
+}
+size119em {
+  font-size: 119em;
+}
+size120em {
+  font-size: 120em;
+}
+size121em {
+  font-size: 121em;
+}
+size122em {
+  font-size: 122em;
+}
+size123em{
+  font-size: 123em;
+}
+size124em {
+  font-size: 124em;
+}
+size125em {
+  font-size: 125em;
+}
+size126em {
+  font-size: 126em;
+}
+size127em {
+  font-size: 127em;
+}
+size128em {
+  font-size: 128em;
+}
+size129em {
+  font-size: 129em;
+}
+size130em {
+  font-size: 130em;
+}
+size131em {
+  font-size: 131em;
+}
+size132em {
+  font-size: 132em;
+}
+size133em {
+  font-size: 133em;
+}
+size134em {
+  font-size: 134em;
+}
+size135em {
+  font-size: 135em;
+}
+size136em {
+  font-size: 136em;
+}
+size137em {
+  font-size: 137em;
+}
+size138em {
+  font-size: 138em;
+}
+size139em {
+  font-size: 139em;
+}
+size140em {
+  font-size: 140em;
+}
+size141em {
+  font-size: 141em;
+}
+size142em {
+  font-size: 142em;
+}
+size143 {
+  font-size: 143px;
+}
+size144 {
+  font-size: 144px;
+}
+size145 {
+  font-size: 145px;
+}
+size146 {
+  font-size: 146px;
+}
+size147 {
+  font-size: 147px;
+}
+size148 {
+  font-size: 148px;
+}
+size149 {
+  font-size: 149px;
+}
+size150 {
+  font-size: 150px;
+}
+size151 {
+  font-size: 151px;
+}
+size152 {
+  font-size: 152px;
+}
+size153 {
+  font-size: 153px;
+}
+size154 {
+  font-size: 154px;
+}
+size155 {
+  font-size: 155px;
+}
+size156 {
+  font-size: 156px;
+}
+size157 {
+  font-size: 157px;
+}
+size158 {
+  font-size: 158px;
+}
+size159 {
+  font-size: 159px;
+}
+size160 {
+  font-size: 160px;
+}
+size161 {
+  font-size: 161px;
+}
+size162 {
+  font-size: 162px;
+}
+size163 {
+  font-size: 163px;
+}
+size164 {
+  font-size: 164px;
+}
+size165 {
+  font-size: 165px;
+}
+size166 {
+  font-size: 166px;
+}
+size167 {
+  font-size: 167px;
+}
+size168 {
+  font-size: 168px;
+}
+size169 {
+  font-size: 169px;
+}
+size170 {
+  font-size: 170px;
+}
+size171 {
+  font-size: 171px;
+}
+size172 {
+  font-size: 172px;
+}
+size173 {
+  font-size: 173px;
+}
+size174 {
+  font-size: 174px;
+}
+size175 {
+  font-size: 175px;
+}
+size176 {
+  font-size: 176px;
+}
+size177 {
+  font-size: 177px;
+}
+size178 {
+  font-size: 178px;
+}
+size179 {
+  font-size: 179px;
+}
+size180 {
+  font-size: 180px;
+}
+size181 {
+  font-size: 181px;
+}
+size182 {
+  font-size: 182px;
+}
+size183 {
+  font-size: 183px;
+}
+size184 {
+  font-size: 184px;
+}
+size185 {
+  font-size: 185px;
+}
+size186 {
+  font-size: 186px;
+}
+size187 {
+  font-size: 187px;
+}
+size188 {
+  font-size: 188px;
+}
+size189 {
+  font-size: 189px;
+}
+size190 {
+  font-size: 190px;
+}
+size191 {
+  font-size: 191px;
+}
+size192 {
+  font-size: 192px;
+}
+size193 {
+  font-size: 193px;
+}
+size194 {
+  font-size: 194px;
+}
+size195 {
+  font-size: 195px;
+}
+size196 {
+  font-size: 196px;
+}
+size197 {
+  font-size: 197px;
+}
+size198 {
+  font-size: 198px;
+}
+size199 {
+  font-size: 199px;
+}
+size200 {
+  font-size: 200px;
+}
+/*Special Features*/
+
+/*RAINBOW TEXT*/
+
+rainbow {
+  /* Chrome, Safari, Opera */
+  -webkit-animation: rainbow 3s infinite;
+   /*Mozilla*/
+  -moz-animation: rainbow 3s infinite;
+  /* Internet Explorer */
+  -ms-animation: rainbow 3s infinite;
+  /* Standard Syntax */
+  animation: rainbow 3s infinite;
+  color: orange;
+}
+
+rainbow1s {
+  /* Chrome, Safari, Opera */
+  -webkit-animation: rainbow 1s infinite;
+   /*Mozilla*/
+  -moz-animation: rainbow 1s infinite;
+  /* Internet Explorer */
+  -ms-animation: rainbow 1s infinite;
+  /* Standard Syntax */
+  animation: rainbow 1s infinite;
+  color: orange;
+}
+
+rainbow2s {
+  /* Chrome, Safari, Opera */
+  -webkit-animation: rainbow 2s infinite;
+   /*Mozilla*/
+  -moz-animation: rainbow 2s infinite;
+  /* Internet Explorer */
+  -ms-animation: rainbow 2s infinite;
+  /* Standard Syntax */
+  animation: rainbow 2s infinite;
+  color: orange;
+}
+
+rainbow3s {
+  /* Chrome, Safari, Opera */
+  -webkit-animation: rainbow 3s infinite;
+   /*Mozilla*/
+  -moz-animation: rainbow 3s infinite;
+  /* Internet Explorer */
+  -ms-animation: rainbow 3s infinite;
+  /* Standard Syntax */
+  animation: rainbow 3s infinite;
+  color: orange;
+}
+
+rainbow4s {
+  /* Chrome, Safari, Opera */
+  -webkit-animation: rainbow 4s infinite;
+   /*Mozilla*/
+  -moz-animation: rainbow 4s infinite;
+  /* Internet Explorer */
+  -ms-animation: rainbow 4s infinite;
+  /* Standard Syntax */
+  animation: rainbow 4s infinite;
+  color: orange;
+}
+
+rainbow5s {
+  /* Chrome, Safari, Opera */
+  -webkit-animation: rainbow 5s infinite;
+  /*Mozilla*/
+  -moz-animation: rainbow 5s infinite;
+  /* Internet Explorer */
+  -ms-animation: rainbow 5s infinite;
+  /* Standard Syntax */
+  animation: rainbow 5s infinite;
+  color: orange;
+}
+
+/* Chrome, Safari, Opera */
+
+@-webkit-keyframes rainbow {
+  20% {
+    color: red;
+  }
+  40% {
+    color: yellow;
+  }
+  60% {
+    color: green;
+  }
+  80% {
+    color: blue;
+  }
+  100% {
+    color: orange;
+  }
+}
+
+/* Internet Explorer */
+
+@-ms-keyframes rainbow {
+  20% {
+    color: red;
+  }
+  40% {
+    color: yellow;
+  }
+  60% {
+    color: green;
+  }
+  80% {
+    color: blue;
+  }
+  100% {
+    color: orange;
+  }
+}
+
+/* Standard Syntax */
+
+@keyframes rainbow {
+  20% {
+    color: red;
+  }
+  40% {
+    color: yellow;
+  }
+  60% {
+    color: green;
+  }
+  80% {
+    color: blue;
+  }
+  100% {
+    color: orange;
+  }
+}
+/*Rainbow Background*/
