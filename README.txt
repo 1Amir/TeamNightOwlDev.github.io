@@ -1,14 +1,14 @@
 
 |=======================|
 |===_____        __  ===|
-|===  |   |\  | |  | ===| TeamNightOwl© 2017
-|===  |   | \ | |  | ===| Last Updated
+|===  |   |\  | |  | ===| TeamNightOwl 2017
+|===  |   | \ | |  | ===| Last Updated: 21/1/2018
 |===  |   |  \| |__| ===|
 |=======================|
 
-EXPANSION:
+EXPANSION
 
-Explansion Was Developed By TeamNightOwl© ALL RIGHTS RESERVED
+Explansion Was Developed By TeamNightOwl ALL RIGHTS RESERVED
 
 
 HOW TO USE EXPLANSION
@@ -16,7 +16,7 @@ ______________________
 Explansion Uses CSS To Make All The New Tags Functional And Working. You Must Add This To Your Website In Able For Everything To Work...
 
 Download Explansion Here:
-https://drive.google.com/open?id=1p_m7h6ufvyRwDUjvLBCzNJphmXZsiZEE
+https://drive.google.com/open?id=1wBUdF92ZTXjUXKmzNn3QoN0FAeBbOuuV
 
 Everything Works Like The Normal HTML Tags, With Everything Specfically Worded, Speeding Up Your Coding Process. Explansion's Main Purpose Is To Add Tags That Should Be In HTML, But For Some Reason Our Not. Explansion Does Not Replace HTML, But Instead Adds More Features. Explansion Is Not Meant To Be Any Sort Of A Replacement For CSS And Javascript.
 
