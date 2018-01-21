@@ -15,15 +15,21 @@ HOW TO USE EXPLANSION
 ______________________
 Explansion Uses CSS To Make All The New Tags Functional And Working. You Must Add This To Your Website In Able For Everything To Work...
 
-<head>
-<link rel="stylesheet" type="text/css" href="https://teamnightowldev.github.io/Explansion/Explansion.css">
-</head>
+Download Explansion Here:
+https://drive.google.com/open?id=1p_m7h6ufvyRwDUjvLBCzNJphmXZsiZEE
 
 Everything Works Like The Normal HTML Tags, With Everything Specfically Worded, Speeding Up Your Coding Process. Explansion's Main Purpose Is To Add Tags That Should Be In HTML, But For Some Reason Our Not. Explansion Does Not Replace HTML, But Instead Adds More Features. Explansion Is Not Meant To Be Any Sort Of A Replacement For CSS And Javascript.
 
 Explansion Comes With Snipplet Support For Atom. If You Want To Take
 Advantage Of This, And Know How To Manually Set Up Snipplets, Look
 In The Extras Folder For The .CSON File
+
+What Am I Supposed To Do Once I've Downloaded The Folder
+________________________________________________________
+1.Open The Folder Called "Explansion"
+2.Open The Folder CORE
+3.Open The File "Template.html" In The Code Editor Of Your Choice
+4.Start Your Journey With Explansion!
 
 DEVELOPMENT TEAM     EMAIL
 ________________     _____________________________________________
