@@ -1,0 +1,54 @@
+Explansion - Update History
+
+**VERY SOON**
+>More Colours
+>All Tags 100% Mobile Friendly
+>Add A Total Of 500 Different Colours
+
+0.20.1 (21/1/2017)
+>Normal Colours Are Now Fully Replaced By The "Exotic Colours"
+
+0.20 (21/1/2017)
+>Added A Total Of 140 Exotic Colours!
+
+0.19.1 (16/1/2018)
+>Added Hover Features
+
+0.19 (16/1/2018)
+>Renamed TNO.css To Explansion
+>Removed Background Gradient, Margin, Text Align, And Shapes
+>Rebuilt TNO.css To Fit Explansion's Needs
+>Added Custom HTML Tags
+
+0.18 (21/12/2017)
+>Added background gradient feature
+
+0.17 (21/12/2017)
+>Added opacity feature (Changes text visibility)
+
+0.16 (20/12/2017)
+>Made mobile friendly squares
+
+0.15 (19/12/2017)
+>Added square shape shortcut
+
+0.14 (15/12/2017)
+>There is now a total of five google fonts for headers
+>Added Five normal text fonts added
+
+0.13 (15/12/2017)
+>Added three google fonts for use as headers
+
+0.12 (29/11/2017)
+>The font Size Attribute Can Now Go Up By Ones's, But Can Only Hit font-size 200px Instead Of 500px
+>Fixed Color Shade Attribute Not Being Accurate
+>Fixed A Few Syntax Errors
+
+0.11 (28/11/2017)
+>Text Shadow Attribute Now Goes Up To 10px
+>Box Shadows Have Now Been Added
+> A New Attribute Called Color Shades Have Been Added For Red, Blue, Yellow, Purple, Green, And Grey
+>A Feature Called "Web Kill' Has Been Added (Just For Fun)
+
+0.10 (28/11/2017):
+>TNO.css Alpha Releashed
