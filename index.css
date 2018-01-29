@@ -68,3 +68,10 @@ body{
   font-size: 2em;
   font-family: 'Kranky', cursive; /*special font*/
 }
+
+#twitter{
+  position: relative;
+  bottom: 47em;
+  text-align: center;
+  margin: auto;
+}
