@@ -15,7 +15,7 @@ html, body {
 }
 
 body{
-  background-color: #171717;
+     background-image: url("http://imgs.abduzeedo.com/files/articles/35_black_wallpapers/25.jpg");
 }
 
 
@@ -52,7 +52,6 @@ body{
   background: #2d2d2d;
   width: 50em;
   height: 20em;
-  text-align: center;
   margin: auto;
 }
 #introduction{
@@ -61,7 +60,7 @@ body{
   color: white;
   top: -8em;
   font-size: 5em;
-  font-family: 'Fontdiner Swanky', cursive; /*special font*/
+  font-family: 'Permanent Marker', cursive; /*special font*/
 }
 #introductionsubtitle{
   position: relative;
@@ -78,3 +77,4 @@ body{
   text-align: center;
   margin: auto;
 }
+
