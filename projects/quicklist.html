@@ -24,13 +24,13 @@
       
       
       //THIS SECTION CONTROLS DELETE FUNCTION ON LISTS
-        $('li.list').on('doubletap', function(){
+        $('li.list').on('doubletap dblclick', function(){
         $(this)
         .fadeOut(1000); //Starts Animation
         setTimeout(function(){//Delay Activates
         $(this).remove();}, 1000);//Delays Removal Of Item
       }); //Both Do Same Thing.Consistant Support Below
-        $(document).on('doubletap', '.list', function(){
+        $(document.body).on('doubletap dblclick', '.list', function(){
         $(this)
         .fadeOut(1000); //Starts Animation
         setTimeout(function(){//Delay Activates
