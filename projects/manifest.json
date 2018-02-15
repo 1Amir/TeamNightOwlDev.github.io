@@ -1,0 +1,13 @@
+{
+  "name": "QuickList",
+  "description": "An Application By TeamNightOwl For Creating Your Lists Quickly",
+  "version": "1.0",
+  "manifest_version": 2,
+  "app": {
+    "background": {
+      "scripts": ["background.js"]
+    }
+  },
+  
+  "icons": { "16": "quicklistX16.png", "128": "quicklistX128.png" }
+}

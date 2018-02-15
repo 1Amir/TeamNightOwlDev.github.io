@@ -1,0 +1,69 @@
+  /*Font For List Text*/
+
+@font-face {
+    font-family: listFont;
+    src: url(listFont.ttf);
+}
+
+html, body {
+  background-color: #3399ff;
+	width: 100%;
+	height: 100%;
+	margin: 0;
+	padding: 0;
+}
+  
+ul.storeList {
+    position: relative;
+    text-align: center;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background: #3399ff;
+    padding: 20px;
+    
+}
+ul li{
+    background: #cce5ff;
+    margin: 5px;
+    font-size: 40px;
+    font-family: listFont;
+}
+
+#formCSS{
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+#itemNameInput{
+    font-family: listFont;
+    font-size: 40px;
+    border-radius: 50px;
+    width: 100%;
+    border: none;
+    border-color: none;
+    text-align: center;
+    padding: 0;
+}
+#addButton{
+  font-family: listFont;
+  background-color: #00fdff;
+  font-size: 20px;
+  width: 3em;
+  height: 30px;
+  border: none;
+  border-radius: 50px;
+  border-color: none;
+  text-align: center;
+}
+#cancelButton{
+  font-family: listFont;
+  background-color: red;
+  font-size: 20px;
+  width: 30px;
+  height: 30px;
+  border: none;
+  border-radius: 50px;
+  border-color: none;
+  text-align: center;
+}

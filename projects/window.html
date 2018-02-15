@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>QuickList</title>
+ 	<link rel='shortcut icon' type="image/png" href="quicklistX16.png" />
+   
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0"/>
+
+<!--All Javascript Files Must Be After jQuery To Ensure Proper Load-->
+<script src="jquery.min.js"></script>
+<script src="jqueryMobileAPI.js"></script>
+<script src="quicklist.js"></script>
+<link rel="stylesheet" href="quicklist.css">
+
+
+  <!--List Stored Here-->
+  </head>
+  <body>
+    <div id="listInfo">
+  <ul class="storeList">
+    <li class="list"><b><u>My Best Project</u></b></li>
+    <li class="list">Developed By Chris Lamers</li>
+  </ul>
+  </div>
+  
+  <div id="formCSS">
+  <!--Main Buttons And Text Boxes-->
+  <div id="newItemButton"><button href="#" id="showForm">new item</button></div>
+  
+  <form id="newItemForm">
+    <input type="text" id="itemNameInput" placeholder="Add Item" maxlength="12" />
+    <input type="submit" id="addButton" value="ADD" onClick="return noInput()" />
+    <button id="cancelButton">X</button>
+  </form>
+  </div>
+  <!--Some Nice Background Music-->
+</body>
+</html>
