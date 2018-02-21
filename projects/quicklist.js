@@ -28,6 +28,7 @@ $(document).ready(function () {
         $boldButton.show();
         $underlineButton.show();
         $italicButton.show();
+       $cancelButton.prop('disabled', false);
 });
 
 //Buttons__________________________________________________________________
