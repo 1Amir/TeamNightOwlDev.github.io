@@ -8,6 +8,11 @@
       "scripts": ["background.js"]
     }
   },
+    "permissions": [
+    "storage"
+  ],
   
-  "icons": { "16": "quicklistX16.png", "128": "quicklistX128.png" }
+"icons": { "16": "icon16.png",
+           "48": "icon48.png",
+          "128": "icon128.png" }
 }

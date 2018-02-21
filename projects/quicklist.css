@@ -2,11 +2,14 @@
 
 @font-face {
     font-family: listFont;
-    src: url(listFont.ttf);
+    src: url(fonts/listFont.ttf);
+}@font-face {
+    font-family: buttonFont;
+    src: url(fonts/button.ttf);
 }
 
 html, body {
-  background-color: #3399ff;
+  background-color: black;
 	width: 100%;
 	height: 100%;
 	margin: 0;
@@ -18,16 +21,17 @@ ul.storeList {
     text-align: center;
     list-style-type: none;
     margin: 0;
-    padding: 0;
-    background: #3399ff;
+    background: black;
     padding: 20px;
-    
+
 }
 ul li{
-    background: #cce5ff;
+    background: #363636;
     margin: 5px;
-    font-size: 40px;
+    font-size: 45px;
+    color: white;
     font-family: listFont;
+    word-wrap: break-word;
 }
 
 #formCSS{
@@ -36,34 +40,126 @@ ul li{
   padding: 0;
 }
 #itemNameInput{
+    position: fixed;
+    bottom: 1.14em;
+    right: 0em;
     font-family: listFont;
+    background-color: white;
     font-size: 40px;
-    border-radius: 50px;
+    border-radius: 0px;
+    height: 45px;
     width: 100%;
+    text-align: center;
+    border-style: none;
+    border-width: none;
+    border-color: none;
+    padding: 0;
+    z-index: 3;
+}
+#formBackground{
+    position: fixed;
+    bottom: 0em;
+    right: 0em;
+    height: 85px;
+    width: 100%;
+    background-color: #999999;
     border: none;
     border-color: none;
-    text-align: center;
     padding: 0;
 }
+#showForm{
+  position: fixed;
+  bottom: 0.2em;
+  right: 0.2em;
+  background-color: #00fdff;
+  font-size: 60px;
+  width: 1.30em;
+  height: 1.30em;
+  border: none;
+  border-radius: 60px;
+  border-color: black;
+  text-align: center;
+  z-index: 4;
+}
 #addButton{
+  position: fixed;
+  bottom: 0em;
+  right: 1.1em;
   font-family: listFont;
   background-color: #00fdff;
-  font-size: 20px;
-  width: 3em;
-  height: 30px;
+  font-size: 40px;
+  width: 1.7em;
+  height: 1.12em;
   border: none;
-  border-radius: 50px;
-  border-color: none;
+  border-radius: 0px;
+  border-color: black;
   text-align: center;
+  z-index: 4;
 }
 #cancelButton{
+  position: fixed;
+  bottom: 0em;
+  right: 0em;
   font-family: listFont;
   background-color: red;
-  font-size: 20px;
-  width: 30px;
-  height: 30px;
+  font-size: 40px;
+  width: 1.12em;
+  height: 1.12em;
   border: none;
-  border-radius: 50px;
+  border-radius: 0px;
   border-color: none;
   text-align: center;
+  z-index: 4;
+}
+/*Buttons For Changing Text Attributes*/
+#boldButton{
+  position: fixed;
+  bottom: 0em;
+  right: 2.8em;
+  font-family: buttonFont;
+  background-color: #DEDEDE;
+  font-weight: bold;
+  font-size: 40px;
+  width: 1.12em;
+  height: 1.12em;
+  border: none;
+  border-radius: 0px;
+  border-color: none;
+  text-align: center;
+  z-index: 4;
+  padding-bottom: 40px;
+}
+#underlineButton{
+  position: fixed;
+  bottom: 0em;
+  right: 3.94em;  /*Must Be 0.03em Away From Other Button*/
+  font-family: buttonFont;
+  text-decoration: underline;
+  background-color: #DEDEDE;
+  font-size: 40px;
+  width: 1.12em;
+  height: 1.12em;
+  border: none;
+  border-radius: 0px;
+  border-color: none;
+  text-align: center;
+  z-index: 4;
+  padding-bottom: 40px;
+}
+#italicButton{
+  position: fixed;
+  bottom: 0em;
+  right: 5.08em;  /*Must Be 0.03em Away From Other Button*/
+  font-family: buttonFont;
+  font-style: italic;
+  background-color: #DEDEDE;
+  font-size: 40px;
+  width: 1.12em;
+  height: 1.12em;
+  border: none;
+  border-radius: 0px;
+  border-color: none;
+  text-align: center;
+  z-index: 4;
+  padding-bottom: 40px;
 }
