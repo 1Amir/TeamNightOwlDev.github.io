@@ -18,6 +18,7 @@ $(document).ready(function () {
       $boldButton.hide();
       $underlineButton.hide();
       $italicButton.hide();
+      $cancelButton.prop('disabled', true);
       
       $('#showForm').on('tap click', function(e){
         $newItemButton.hide();
