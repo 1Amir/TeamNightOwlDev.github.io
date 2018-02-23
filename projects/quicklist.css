@@ -60,7 +60,7 @@ ul li{
     position: fixed;
     bottom: 0em;
     right: 0em;
-    height: 85px;
+    height: 5em;
     width: 100%;
     background-color: #999999;
     border: none;
@@ -73,8 +73,8 @@ ul li{
   right: 0.2em;
   background-color: #00fdff;
   font-size: 60px;
-  width: 1.30em;
-  height: 1.30em;
+  width: 90px;
+  height: 90px;
   border: none;
   border-radius: 60px;
   border-color: black;
@@ -84,83 +84,83 @@ ul li{
 #addButton{
   position: fixed;
   bottom: 0em;
-  right: 1.1em;
+  right: 41px;
   font-family: listFont;
   background-color: #00fdff;
   font-size: 40px;
-  width: 1.7em;
+  width: 71px;
   height: 1.12em;
   border: none;
   border-radius: 0px;
   border-color: black;
   text-align: center;
-  z-index: 4;
+  z-index: 2;
 }
 #cancelButton{
   position: fixed;
-  bottom: 0em;
-  right: 0em;
+  bottom: 0px;
+  right: 0px;
   font-family: listFont;
   background-color: red;
   color: black;
   font-size: 40px;
-  width: 1.12em;
+  width: 40px;
   height: 1.12em;
   border: none;
   border-radius: 0px;
   border-color: none;
   text-align: center;
-  z-index: 4;
+  z-index: 2;
 }
 /*Buttons For Changing Text Attributes*/
 #boldButton{
   position: fixed;
-  bottom: 0em;
-  right: 2.8em;
+  bottom: 0px;
+  right: 112px;
   font-family: buttonFont;
   background-color: #DEDEDE;
   font-weight: bold;
   font-size: 40px;
-  width: 1.12em;
+  width: 45px;
   height: 1.12em;
   border: none;
   border-radius: 0px;
   border-color: none;
   text-align: center;
-  z-index: 4;
+  z-index: 2;
   padding-bottom: 40px;
 }
 #underlineButton{
   position: fixed;
   bottom: 0em;
-  right: 3.94em;  /*Must Be 0.03em Away From Other Button*/
+  right: 159px;  /*Must Be 0.03em Away From Other Button*/
   font-family: buttonFont;
   text-decoration: underline;
   background-color: #DEDEDE;
   font-size: 40px;
-  width: 1.12em;
+  width: 45px;
   height: 1.12em;
   border: none;
   border-radius: 0px;
   border-color: none;
   text-align: center;
-  z-index: 4;
+  z-index: 2;
   padding-bottom: 40px;
 }
 #italicButton{
   position: fixed;
   bottom: 0em;
-  right: 5.08em;  /*Must Be 0.03em Away From Other Button*/
+  right: 206px;  /*Must Be 0.03em Away From Other Button*/
   font-family: buttonFont;
   font-style: italic;
   background-color: #DEDEDE;
   font-size: 40px;
-  width: 1.12em;
+  width: 45px;
   height: 1.12em;
   border: none;
   border-radius: 0px;
   border-color: none;
   text-align: center;
-  z-index: 4;
+  z-index: 2;
   padding-bottom: 40px;
 }

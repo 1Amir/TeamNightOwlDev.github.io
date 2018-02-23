@@ -28,7 +28,6 @@ $(document).ready(function () {
         $boldButton.show();
         $underlineButton.show();
         $italicButton.show();
-       $cancelButton.prop('disabled', false);
 });
 
 //Buttons__________________________________________________________________
@@ -58,6 +57,21 @@ $(document).ready(function () {
         $italicButton.hide();
         $textInput.val('');//Empties Text Box
 });
+      $('#italicButton').on('tap click', function(e){
+        e.preventDefault();
+        var newText = $textInput.val();//Takes Textbox Value
+        $('.list:last').after('<li class="list"><i>' + newText + '</i></li>');//Puts TextBox Value Into List
+        $newItemForm.hide();//Hides Text Box
+        $formBackground.hide();
+        $newItemButton.show();//Shows New Item Button
+        $cancelButton.hide();
+        $boldButton.hide();
+        $underlineButton.hide();
+        $italicButton.hide();
+        $textInput.val('');//Empties Text Box
+});
+
+//END BUTTONS__________________________________________________________________________
       
       //THIS SECTION CONTROLS DELETES ITEMS ON LIST
         $('li.list').on('doubletap dblclick', function(){
@@ -115,6 +129,7 @@ function noInput() {
     var EMPTY;
     EMPTY = document.getElementById("itemNameInput").value;
     if (EMPTY === "") {
+      $('#enetrSomething').show();
         return false;
     }
 }
