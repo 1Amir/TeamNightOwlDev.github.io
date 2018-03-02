@@ -9,6 +9,7 @@
 
 <!--All Javascript Files Must Be After jQuery To Ensure Proper Load-->
 <link rel="stylesheet" href="quicklist.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <script src="jquery.min.js"></script>
 <script src="jqueryMobileAPI.js"></script>
 <script src="quicklist.js"></script>
@@ -20,7 +21,7 @@
     <div id="listInfo">
   <ul class="storeList">
     <li class="list"><b><u>My Best Project</u></b></li>
-    <li class="list">TEST</li>
+    <li class="list">Developed By Chris Lamers</li>
   </ul>
   </div>
   
@@ -28,7 +29,9 @@
   
   <div id="formCSS">
   <!--Main Buttons And Text Boxes-->
-  <div id="newItemButton"><button href="#" id="showForm">+</button></div>
+  <div id="newItemButton"><button href="#" id="showForm"><i class="fa fa-plus"></i>
+
+</button></div>
   
   <form id="newItemForm">
     <input type="text" id="itemNameInput" placeholder="Add Item" maxlength="19" />
@@ -40,7 +43,6 @@
   <button id="underlineButton">U</button>
   <button id="italicButton">I</button>
   <!--Error Message-->
-  <p>*You Must Enter Something*</p>
   </div>
   <!--Some Nice Background Music-->
 </body>

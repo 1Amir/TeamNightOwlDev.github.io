@@ -129,7 +129,7 @@ function noInput() {
     var EMPTY;
     EMPTY = document.getElementById("itemNameInput").value;
     if (EMPTY === "") {
-      $('#enetrSomething').show();
+    alert("You Must Enter Something");
         return false;
     }
 }
