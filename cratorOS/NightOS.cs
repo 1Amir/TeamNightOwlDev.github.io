@@ -145,7 +145,7 @@ namespace CratorOS
                 Console.Clear();
                 Console.ForegroundColor = ConsoleColor.Cyan;
                 Console.WriteLine("Welcome To CratorOS!\nDeveloped By @ITS_N1GH7OWL, @JavaBoi, And Tested By @Mega_Danz");
-                Console.WriteLine("||||Version 0.1||||");
+                Console.WriteLine("||||Version 0.1 UPDATE TEST||||");
                 Console.WriteLine("_______________________________");
                 string dateString = DateTime.Today.ToShortDateString() + "    |";
                 Console.WriteLine("Hello! Today is " + dateString);
