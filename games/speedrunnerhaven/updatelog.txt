@@ -5,6 +5,10 @@ PLANNED
 > Jumping Physics
 > More Exiting Collisions And End Game
 > More Levels
+> Fixing Respawn When Falling Off Map
+
+0.12 (2018-06-29 @ 8:06am)
+> Lowered Graphic Quality For Chromebook Optimization
 
 0.11 (2018-06-29 @ 5:23am)
 > Fixed Bug Where Player Would'nt Respawn When Falling Off Map
