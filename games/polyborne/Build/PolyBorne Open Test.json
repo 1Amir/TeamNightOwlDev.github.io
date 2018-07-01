@@ -1,0 +1,13 @@
+{
+"companyName": "FlameByte Studios",
+"productName": "Poly Borne",
+"dataUrl": "PolyBorne Open Test.data.unityweb",
+"asmCodeUrl": "PolyBorne Open Test.asm.code.unityweb",
+"asmMemoryUrl": "PolyBorne Open Test.asm.memory.unityweb",
+"asmFrameworkUrl": "PolyBorne Open Test.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#080308"
+}
