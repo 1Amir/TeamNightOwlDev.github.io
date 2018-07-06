@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Speed Haven 2.0",
+"dataUrl": "Speed Haven 2.0 Build.data.unityweb",
+"asmCodeUrl": "Speed Haven 2.0 Build.asm.code.unityweb",
+"asmMemoryUrl": "Speed Haven 2.0 Build.asm.memory.unityweb",
+"asmFrameworkUrl": "Speed Haven 2.0 Build.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#000000"
+}
