@@ -1,11 +1,18 @@
-Speed Runner Haven - UPDATE LOG
+Speed Haven - UPDATE LOG
 *******************************
 PLANNED
-> Tutorial Level Added
 > Jumping Physics
-> More Exiting Collisions And End Game
 > More Levels
-> Fixing Respawn When Falling Off Map
+> Rebuild Tutorial Level
+> Add An Options Menu
+
+0.13 (2018-07-06 & 7:07am)
+> Changed Name From Speed Runner haven To Speed Haven
+> Completely Reprogramed And Redesigned Speed Haven
+> There Is Now Two Levels (Tutorial And Level 1)
+> Added New Menu SoundTrack
+> You Now Respawn After Falling Off Map
+>More Percise Collisions
 
 0.12 (2018-06-29 @ 8:06am)
 > Lowered Graphic Quality For Chromebook Optimization
