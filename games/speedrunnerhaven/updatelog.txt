@@ -11,7 +11,6 @@ PLANNED
 > Completely Reprogramed And Redesigned Speed Haven
 > There Is Now Two Levels (Tutorial And Level 1)
 > Added New Menu SoundTrack
-> You Now Respawn After Falling Off Map
 >More Percise Collisions
 
 0.12 (2018-06-29 @ 8:06am)
