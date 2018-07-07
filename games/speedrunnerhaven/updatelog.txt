@@ -3,15 +3,19 @@ Speed Haven - UPDATE LOG
 PLANNED
 > Jumping Physics
 > More Levels
-> Rebuild Tutorial Level
 > Add An Options Menu
+
+0.14 (2018-7-6 & 6:18pm)
+> Resigned Level 1 And The Tutorial Map To Be More Easier
+> Fixed A Respawn Bug That Would Mess Up The Players Axis
+>Added Music To Each Level
 
 0.13 (2018-07-06 & 7:07am)
 > Changed Name From Speed Runner haven To Speed Haven
 > Completely Reprogramed And Redesigned Speed Haven
 > There Is Now Two Levels (Tutorial And Level 1)
 > Added New Menu SoundTrack
->More Percise Collisions
+> More Percise Collisions
 
 0.12 (2018-06-29 @ 8:06am)
 > Lowered Graphic Quality For Chromebook Optimization
